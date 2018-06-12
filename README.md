@@ -19,7 +19,7 @@ Page Object Model (POM) is used to  make the code more readable, maintainable, a
 |---------------------------|---------------------------------|--------|
 |                           |                                 |        |
 | Framework level           | Page Object Model               | Done   |
-|                           | Profiles                        |        |
+|                           | Profiles                        | Done   |
 |                           | Grids                           |        |
 |                           | Cross browsers & cross platform |        |
 |                           |                                 |        |
@@ -28,25 +28,25 @@ Page Object Model (POM) is used to  make the code more readable, maintainable, a
 | Functionality To Automate | Challenging DOM                 | Done   |
 |                           | Checkboxes                      | Done   |
 |                           | Context Menu                    | Done   |
-|                           | Disappearing Elements           |        |
-|                           | Drag and Drop                   |        |
+|                           | Disappearing Elements           | Done   |
+|                           | Drag and Drop                   | Done   |
 |                           | Dropdown                        | Done   |
-|                           | Dynamic Content                 |        |
-|                           | Dynamic Controls                |        |
-|                           | Dynamic Loading                 |        |
-|                           | File Download                   |        |
-|                           | File Upload                     |        |
-|                           | Floating Menu                   |        |
-|                           | Frames                          |        |
-|                           | Horizontal Slider               |        |
-|                           | Hovers                          |        |
-|                           | Infinite Scroll                 |        |
-|                           | JQuery UI Menus                 |        |
-|                           | JavaScript Alerts               |        |
-|                           | Key Presses                     |        |
-|                           | Large & Deep DOM                |        |
-|                           | Multiple Windows                |        |
-|                           | Nested Frames                   |        |
+|                           | Dynamic Content                 | Done   |
+|                           | Dynamic Controls                | Done   |
+|                           | Dynamic Loading                 | Done   |
+|                           | File Download                   | Done   |
+|                           | File Upload                     | Done   |
+|                           | Floating Menu                   | Done   |
+|                           | Frames                          | Done   |
+|                           | Horizontal Slider               | Done   |
+|                           | Hovers                          | Done   |
+|                           | Infinite Scroll                 | Done   |
+|                           | JQuery UI Menus                 | Done   |
+|                           | JavaScript Alerts               | Done   |
+|                           | Key Presses                     | Done   |
+|                           | Large & Deep DOM                | Done   |
+|                           | Multiple Windows                | Done   |
+|                           | Nested Frames                   | Done   |
 |                           | Notification Messages           |        |
 |                           | Redirect Link                   |        |
 |                           | Shifting Content                |        |
